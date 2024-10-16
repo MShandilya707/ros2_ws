@@ -1,0 +1,2 @@
+
+string latest_data

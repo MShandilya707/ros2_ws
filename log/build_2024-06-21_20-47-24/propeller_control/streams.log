@@ -1,0 +1,35 @@
+[0.557s] Invoking command in '/home/ntu/ros2_ws/build/propeller_control': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/ntu/ros2_ws/src/propeller_control -DCMAKE_INSTALL_PREFIX=/home/ntu/ros2_ws/install/propeller_control
+[0.566s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.586s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.741s] -- Found rclpy: 1.0.13 (/opt/ros/foxy/share/rclpy/cmake)
+[0.741s] -- Found std_msgs: 2.0.5 (/opt/ros/foxy/share/std_msgs/cmake)
+[0.762s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.766s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.889s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.938s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.001s] -- Configuring done
+[1.002s] -- Generating done
+[1.002s] -- Build files have been written to: /home/ntu/ros2_ws/build/propeller_control
+[1.006s] Invoked command in '/home/ntu/ros2_ws/build/propeller_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/ntu/ros2_ws/src/propeller_control -DCMAKE_INSTALL_PREFIX=/home/ntu/ros2_ws/install/propeller_control
+[1.009s] Invoking command in '/home/ntu/ros2_ws/build/propeller_control': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/ntu/ros2_ws/build/propeller_control -- -j12 -l12
+[1.048s] Invoked command in '/home/ntu/ros2_ws/build/propeller_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/ntu/ros2_ws/build/propeller_control -- -j12 -l12
+[1.066s] Invoking command in '/home/ntu/ros2_ws/build/propeller_control': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/ntu/ros2_ws/build/propeller_control
+[1.071s] -- Install configuration: ""
+[1.071s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/propeller_control/propeller_control.py
+[1.071s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/launch/launch
+[1.071s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/ament_index/resource_index/package_run_dependencies/propeller_control
+[1.071s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/ament_index/resource_index/parent_prefix_path/propeller_control
+[1.071s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/environment/ament_prefix_path.sh
+[1.072s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/environment/ament_prefix_path.dsv
+[1.072s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/environment/path.sh
+[1.072s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/environment/path.dsv
+[1.072s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/local_setup.bash
+[1.072s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/local_setup.sh
+[1.072s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/local_setup.zsh
+[1.072s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/local_setup.dsv
+[1.072s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/package.dsv
+[1.072s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/ament_index/resource_index/packages/propeller_control
+[1.072s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/propeller_controlConfig.cmake
+[1.072s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/propeller_controlConfig-version.cmake
+[1.072s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/package.xml
+[1.074s] Invoked command in '/home/ntu/ros2_ws/build/propeller_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/ntu/ros2_ws/build/propeller_control

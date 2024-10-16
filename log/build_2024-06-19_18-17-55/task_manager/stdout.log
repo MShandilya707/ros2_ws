@@ -1,0 +1,152 @@
+[ 12%] Built target task_manager__rosidl_generator_c
+[ 12%] Built target task_manager__cpp
+[ 23%] Built target task_manager__rosidl_typesupport_c
+[ 33%] Built target task_manager__rosidl_typesupport_cpp
+[ 53%] Built target task_manager__rosidl_typesupport_introspection_cpp
+[ 53%] Built target task_manager__rosidl_typesupport_introspection_c
+[ 64%] Built target task_manager__rosidl_typesupport_fastrtps_cpp
+[ 74%] Built target task_manager__rosidl_typesupport_fastrtps_c
+[ 74%] Built target task_manager
+[ 76%] Built target task_manager__py
+[ 84%] Built target task_manager__python
+[ 89%] Built target task_manager__rosidl_typesupport_c__pyext
+[ 94%] Built target task_manager__rosidl_typesupport_fastrtps_c__pyext
+[100%] Built target task_manager__rosidl_typesupport_introspection_c__pyext
+-- Install configuration: ""
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/ament_index/resource_index/rosidl_interfaces/task_manager
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/rosidl_generator_c__visibility_control.h
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__type_support.h
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__functions.c
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__struct.h
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__functions.h
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/propeller_status.h
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/querydata.h
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__struct.h
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__functions.c
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__type_support.h
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__functions.h
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/environment/library_path.sh
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/environment/library_path.dsv
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_generator_c.so
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_typesupport_fastrtps_c.so
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/dds_fastrtps
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/dds_fastrtps
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_typesupport_fastrtps_cpp.so
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/rosidl_typesupport_introspection_c__visibility_control.h
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__type_support.c
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__type_support.c
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_typesupport_introspection_c.so
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_typesupport_c.so
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/rosidl_generator_cpp__visibility_control.hpp
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__builder.hpp
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__type_support.hpp
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__traits.hpp
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__struct.hpp
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/propeller_status.hpp
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/querydata.hpp
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__builder.hpp
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__struct.hpp
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__type_support.hpp
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__traits.hpp
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__type_support.cpp
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__type_support.cpp
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_typesupport_introspection_cpp.so
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_typesupport_cpp.so
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/environment/pythonpath.sh
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/environment/pythonpath.dsv
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/__init__.py
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/msg
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/msg/_propeller_status_s.c
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/msg/_propeller_status.py
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/msg/__init__.py
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/srv
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/srv/_querydata_s.c
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/srv/__init__.py
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/srv/_querydata.py
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/task_manager_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/task_manager_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/task_manager_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__python.so
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/msg/PropellerStatus.idl
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/srv/Querydata.idl
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/msg/PropellerStatus.msg
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/srv/Querydata.srv
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/srv/Querydata_Request.msg
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/srv/Querydata_Response.msg
+-- Installing: /home/ntu/ros2_ws/install/task_manager/lib/task_manager/planning.py
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager//launch
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager//launch/all_node_launch.py
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager//launch/node_before_planning_launch.py
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/ament_index/resource_index/package_run_dependencies/task_manager
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/ament_index/resource_index/parent_prefix_path/task_manager
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/environment/ament_prefix_path.sh
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/environment/path.sh
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/environment/path.dsv
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/local_setup.bash
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/local_setup.sh
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/local_setup.zsh
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/local_setup.dsv
+-- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/package.dsv
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/ament_index/resource_index/packages/task_manager
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_generator_cExport.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_generator_cExport-noconfig.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_typesupport_introspection_cExport.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_typesupport_introspection_cExport-noconfig.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_typesupport_cExport.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_typesupport_cExport-noconfig.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_generator_cppExport.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_typesupport_introspection_cppExport.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_typesupport_cppExport.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_typesupport_cppExport-noconfig.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/rosidl_cmake-extras.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/ament_cmake_export_libraries-extras.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/ament_cmake_export_targets-extras.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_managerConfig.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_managerConfig-version.cmake
+-- Up-to-date: /home/ntu/ros2_ws/install/task_manager/share/task_manager/package.xml

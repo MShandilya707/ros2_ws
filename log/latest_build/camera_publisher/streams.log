@@ -1,0 +1,21 @@
+[0.702s] Invoking command in '/home/ntu/ros2_ws/src/camera_publisher': PYTHONPATH=/home/ntu/ros2_ws/build/camera_publisher/prefix_override:/home/ntu/ros2_ws/install/camera_publisher/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/camera_publisher build --build-base /home/ntu/ros2_ws/build/camera_publisher/build install --record /home/ntu/ros2_ws/build/camera_publisher/install.log --install-scripts $base/lib/camera_publisher --single-version-externally-managed install_data
+[0.821s] running egg_info
+[0.821s] writing ../../build/camera_publisher/camera_publisher.egg-info/PKG-INFO
+[0.821s] writing dependency_links to ../../build/camera_publisher/camera_publisher.egg-info/dependency_links.txt
+[0.822s] writing entry points to ../../build/camera_publisher/camera_publisher.egg-info/entry_points.txt
+[0.822s] writing requirements to ../../build/camera_publisher/camera_publisher.egg-info/requires.txt
+[0.822s] writing top-level names to ../../build/camera_publisher/camera_publisher.egg-info/top_level.txt
+[0.842s] reading manifest file '../../build/camera_publisher/camera_publisher.egg-info/SOURCES.txt'
+[0.842s] writing manifest file '../../build/camera_publisher/camera_publisher.egg-info/SOURCES.txt'
+[0.842s] running build
+[0.842s] running build_py
+[0.842s] running install
+[0.843s] running install_lib
+[0.844s] running install_data
+[0.844s] running install_egg_info
+[0.845s] removing '/home/ntu/ros2_ws/install/camera_publisher/lib/python3.8/site-packages/camera_publisher-0.0.0-py3.8.egg-info' (and everything under it)
+[0.845s] Copying ../../build/camera_publisher/camera_publisher.egg-info to /home/ntu/ros2_ws/install/camera_publisher/lib/python3.8/site-packages/camera_publisher-0.0.0-py3.8.egg-info
+[0.845s] running install_scripts
+[0.856s] Installing camera_publisher script to /home/ntu/ros2_ws/install/camera_publisher/lib/camera_publisher
+[0.856s] writing list of installed files to '/home/ntu/ros2_ws/build/camera_publisher/install.log'
+[0.869s] Invoked command in '/home/ntu/ros2_ws/src/camera_publisher' returned '0': PYTHONPATH=/home/ntu/ros2_ws/build/camera_publisher/prefix_override:/home/ntu/ros2_ws/install/camera_publisher/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/camera_publisher build --build-base /home/ntu/ros2_ws/build/camera_publisher/build install --record /home/ntu/ros2_ws/build/camera_publisher/install.log --install-scripts $base/lib/camera_publisher --single-version-externally-managed install_data

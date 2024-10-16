@@ -1,0 +1,24 @@
+[0.767s] Invoking command in '/home/ntu/ros2_ws/src/echostick_publisher': PYTHONPATH=/home/ntu/ros2_ws/build/echostick_publisher/prefix_override:/home/ntu/ros2_ws/install/echostick_publisher/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/echostick_publisher build --build-base /home/ntu/ros2_ws/build/echostick_publisher/build install --record /home/ntu/ros2_ws/build/echostick_publisher/install.log --install-scripts $base/lib/echostick_publisher --single-version-externally-managed install_data
+[0.911s] running egg_info
+[0.912s] writing ../../build/echostick_publisher/echostick_publisher.egg-info/PKG-INFO
+[0.912s] writing dependency_links to ../../build/echostick_publisher/echostick_publisher.egg-info/dependency_links.txt
+[0.912s] writing entry points to ../../build/echostick_publisher/echostick_publisher.egg-info/entry_points.txt
+[0.912s] writing requirements to ../../build/echostick_publisher/echostick_publisher.egg-info/requires.txt
+[0.912s] writing top-level names to ../../build/echostick_publisher/echostick_publisher.egg-info/top_level.txt
+[0.931s] reading manifest file '../../build/echostick_publisher/echostick_publisher.egg-info/SOURCES.txt'
+[0.931s] writing manifest file '../../build/echostick_publisher/echostick_publisher.egg-info/SOURCES.txt'
+[0.931s] running build
+[0.932s] running build_py
+[0.932s] copying echostick_publisher/echostick_publisher_node.py -> /home/ntu/ros2_ws/build/echostick_publisher/build/lib/echostick_publisher
+[0.932s] running install
+[0.932s] running install_lib
+[0.933s] copying /home/ntu/ros2_ws/build/echostick_publisher/build/lib/echostick_publisher/echostick_publisher_node.py -> /home/ntu/ros2_ws/install/echostick_publisher/lib/python3.8/site-packages/echostick_publisher
+[0.933s] byte-compiling /home/ntu/ros2_ws/install/echostick_publisher/lib/python3.8/site-packages/echostick_publisher/echostick_publisher_node.py to echostick_publisher_node.cpython-38.pyc
+[0.934s] running install_data
+[0.934s] running install_egg_info
+[0.935s] removing '/home/ntu/ros2_ws/install/echostick_publisher/lib/python3.8/site-packages/echostick_publisher-0.0.0-py3.8.egg-info' (and everything under it)
+[0.935s] Copying ../../build/echostick_publisher/echostick_publisher.egg-info to /home/ntu/ros2_ws/install/echostick_publisher/lib/python3.8/site-packages/echostick_publisher-0.0.0-py3.8.egg-info
+[0.935s] running install_scripts
+[0.945s] Installing echostick_publisher script to /home/ntu/ros2_ws/install/echostick_publisher/lib/echostick_publisher
+[0.945s] writing list of installed files to '/home/ntu/ros2_ws/build/echostick_publisher/install.log'
+[0.958s] Invoked command in '/home/ntu/ros2_ws/src/echostick_publisher' returned '0': PYTHONPATH=/home/ntu/ros2_ws/build/echostick_publisher/prefix_override:/home/ntu/ros2_ws/install/echostick_publisher/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/echostick_publisher build --build-base /home/ntu/ros2_ws/build/echostick_publisher/build install --record /home/ntu/ros2_ws/build/echostick_publisher/install.log --install-scripts $base/lib/echostick_publisher --single-version-externally-managed install_data

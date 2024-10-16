@@ -1,0 +1,180 @@
+[0.022s] Invoking command in '/home/ntu/ros2_ws/build/digital_space': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/ntu/ros2_ws/build/digital_space -- -j12 -l12
+[0.574s] [35m[1mScanning dependencies of target digital_space__cpp[0m
+[0.574s] [  3%] [34m[1mGenerating C code for ROS interfaces[0m
+[0.574s] [  6%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[0.574s] [  6%] Built target digital_space__cpp
+[0.574s] [  9%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[0.574s] [ 16%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[0.574s] [ 16%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[0.574s] [35m[1mScanning dependencies of target digital_space__rosidl_generator_c[0m
+[0.574s] [ 19%] [32mBuilding C object CMakeFiles/digital_space__rosidl_generator_c.dir/rosidl_generator_c/digital_space/srv/detail/querydata__functions.c.o[0m
+[0.574s] [ 22%] [32m[1mLinking C shared library libdigital_space__rosidl_generator_c.so[0m
+[0.575s] [ 22%] Built target digital_space__rosidl_generator_c
+[0.575s] [ 29%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[0.575s] [ 29%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[0.576s] [35m[1mScanning dependencies of target digital_space__rosidl_typesupport_cpp[0m
+[0.576s] [ 32%] [32mBuilding CXX object CMakeFiles/digital_space__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/digital_space/srv/querydata__type_support.cpp.o[0m
+[0.577s] [35m[1mScanning dependencies of target digital_space__rosidl_typesupport_fastrtps_cpp[0m
+[0.577s] [ 35%] [32mBuilding CXX object CMakeFiles/digital_space__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/digital_space/srv/detail/dds_fastrtps/querydata__type_support.cpp.o[0m
+[0.577s] [35m[1mScanning dependencies of target digital_space__rosidl_typesupport_introspection_cpp[0m
+[0.577s] [ 38%] [32mBuilding CXX object CMakeFiles/digital_space__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/digital_space/srv/detail/querydata__type_support.cpp.o[0m
+[0.577s] [35m[1mScanning dependencies of target digital_space__rosidl_typesupport_introspection_c[0m
+[0.578s] [ 41%] [32mBuilding C object CMakeFiles/digital_space__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/digital_space/srv/detail/querydata__type_support.c.o[0m
+[0.579s] [35m[1mScanning dependencies of target digital_space__rosidl_typesupport_c[0m
+[0.579s] [ 45%] [32mBuilding CXX object CMakeFiles/digital_space__rosidl_typesupport_c.dir/rosidl_typesupport_c/digital_space/srv/querydata__type_support.cpp.o[0m
+[0.579s] [ 48%] [32m[1mLinking C shared library libdigital_space__rosidl_typesupport_introspection_c.so[0m
+[0.580s] [ 51%] [32m[1mLinking CXX shared library libdigital_space__rosidl_typesupport_c.so[0m
+[0.580s] [ 51%] Built target digital_space__rosidl_typesupport_introspection_c
+[0.581s] [ 51%] Built target digital_space__rosidl_typesupport_c
+[0.659s] [ 54%] [32m[1mLinking CXX shared library libdigital_space__rosidl_typesupport_cpp.so[0m
+[0.661s] [ 58%] [32m[1mLinking CXX shared library libdigital_space__rosidl_typesupport_introspection_cpp.so[0m
+[0.702s] [ 58%] Built target digital_space__rosidl_typesupport_cpp
+[0.707s] [ 58%] Built target digital_space__rosidl_typesupport_introspection_cpp
+[0.863s] [ 61%] [32m[1mLinking CXX shared library libdigital_space__rosidl_typesupport_fastrtps_cpp.so[0m
+[0.950s] [ 61%] Built target digital_space__rosidl_typesupport_fastrtps_cpp
+[0.961s] [ 64%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[1.165s] [35m[1mScanning dependencies of target digital_space__rosidl_typesupport_fastrtps_c[0m
+[1.175s] [ 67%] [32mBuilding CXX object CMakeFiles/digital_space__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/digital_space/srv/detail/querydata__type_support_c.cpp.o[0m
+[1.354s] [ 70%] [32m[1mLinking CXX shared library libdigital_space__rosidl_typesupport_fastrtps_c.so[0m
+[1.403s] [ 70%] Built target digital_space__rosidl_typesupport_fastrtps_c
+[1.409s] [35m[1mScanning dependencies of target digital_space[0m
+[1.414s] [ 70%] Built target digital_space
+[1.419s] [35m[1mScanning dependencies of target digital_space__py[0m
+[1.425s] [ 74%] [34m[1mGenerating Python code for ROS interfaces[0m
+[1.686s] [ 74%] Built target digital_space__py
+[1.691s] [35m[1mScanning dependencies of target digital_space__python[0m
+[1.709s] [ 77%] [32mBuilding C object CMakeFiles/digital_space__python.dir/rosidl_generator_py/digital_space/srv/_querydata_s.c.o[0m
+[1.763s] [ 80%] [32m[1mLinking C shared library rosidl_generator_py/digital_space/libdigital_space__python.so[0m
+[1.788s] [ 80%] Built target digital_space__python
+[1.794s] [35m[1mScanning dependencies of target digital_space__rosidl_typesupport_c__pyext[0m
+[1.794s] [35m[1mScanning dependencies of target digital_space__rosidl_typesupport_introspection_c__pyext[0m
+[1.796s] [35m[1mScanning dependencies of target digital_space__rosidl_typesupport_fastrtps_c__pyext[0m
+[1.806s] [ 87%] [32mBuilding C object CMakeFiles/digital_space__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/digital_space/_digital_space_s.ep.rosidl_typesupport_c.c.o[0m
+[1.806s] [ 87%] [32mBuilding C object CMakeFiles/digital_space__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/digital_space/_digital_space_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[1.808s] [ 90%] [32mBuilding C object CMakeFiles/digital_space__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/digital_space/_digital_space_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[1.855s] [ 93%] [32m[1mLinking C shared library rosidl_generator_py/digital_space/digital_space_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so[0m
+[1.855s] [ 96%] [32m[1mLinking CXX shared library rosidl_generator_py/digital_space/digital_space_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so[0m
+[1.879s] [100%] [32m[1mLinking C shared library rosidl_generator_py/digital_space/digital_space_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so[0m
+[1.881s] [100%] Built target digital_space__rosidl_typesupport_introspection_c__pyext
+[1.898s] [100%] Built target digital_space__rosidl_typesupport_fastrtps_c__pyext
+[1.903s] [100%] Built target digital_space__rosidl_typesupport_c__pyext
+[1.910s] Invoked command in '/home/ntu/ros2_ws/build/digital_space' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/ntu/ros2_ws/build/digital_space -- -j12 -l12
+[1.935s] Invoking command in '/home/ntu/ros2_ws/build/digital_space': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/ntu/ros2_ws/build/digital_space
+[1.941s] -- Install configuration: ""
+[1.941s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/ament_index/resource_index/rosidl_interfaces/digital_space
+[1.941s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space
+[1.941s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/msg
+[1.941s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/msg/rosidl_generator_c__visibility_control.h
+[1.941s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv
+[1.941s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/querydata.h
+[1.941s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail
+[1.941s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail/querydata__struct.h
+[1.942s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail/querydata__functions.c
+[1.942s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail/querydata__type_support.h
+[1.942s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail/querydata__functions.h
+[1.942s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/environment/library_path.sh
+[1.942s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/environment/library_path.dsv
+[1.942s] -- Installing: /home/ntu/ros2_ws/install/digital_space/lib/libdigital_space__rosidl_generator_c.so
+[1.942s] -- Set runtime path of "/home/ntu/ros2_ws/install/digital_space/lib/libdigital_space__rosidl_generator_c.so" to ""
+[1.942s] -- Up-to-date: /home/ntu/ros2_ws/install/digital_space/include/digital_space
+[1.942s] -- Up-to-date: /home/ntu/ros2_ws/install/digital_space/include/digital_space/msg
+[1.942s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.942s] -- Up-to-date: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv
+[1.943s] -- Up-to-date: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail
+[1.943s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail/querydata__rosidl_typesupport_fastrtps_c.h
+[1.943s] -- Installing: /home/ntu/ros2_ws/install/digital_space/lib/libdigital_space__rosidl_typesupport_fastrtps_c.so
+[1.943s] -- Set runtime path of "/home/ntu/ros2_ws/install/digital_space/lib/libdigital_space__rosidl_typesupport_fastrtps_c.so" to ""
+[1.943s] -- Up-to-date: /home/ntu/ros2_ws/install/digital_space/include/digital_space
+[1.943s] -- Up-to-date: /home/ntu/ros2_ws/install/digital_space/include/digital_space/msg
+[1.943s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.943s] -- Up-to-date: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv
+[1.943s] -- Up-to-date: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail
+[1.943s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail/dds_fastrtps
+[1.943s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail/querydata__rosidl_typesupport_fastrtps_cpp.hpp
+[1.944s] -- Installing: /home/ntu/ros2_ws/install/digital_space/lib/libdigital_space__rosidl_typesupport_fastrtps_cpp.so
+[1.944s] -- Set runtime path of "/home/ntu/ros2_ws/install/digital_space/lib/libdigital_space__rosidl_typesupport_fastrtps_cpp.so" to ""
+[1.944s] -- Up-to-date: /home/ntu/ros2_ws/install/digital_space/include/digital_space
+[1.944s] -- Up-to-date: /home/ntu/ros2_ws/install/digital_space/include/digital_space/msg
+[1.944s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.944s] -- Up-to-date: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv
+[1.944s] -- Up-to-date: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail
+[1.944s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail/querydata__type_support.c
+[1.944s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail/querydata__rosidl_typesupport_introspection_c.h
+[1.944s] -- Installing: /home/ntu/ros2_ws/install/digital_space/lib/libdigital_space__rosidl_typesupport_introspection_c.so
+[1.944s] -- Set runtime path of "/home/ntu/ros2_ws/install/digital_space/lib/libdigital_space__rosidl_typesupport_introspection_c.so" to ""
+[1.944s] -- Installing: /home/ntu/ros2_ws/install/digital_space/lib/libdigital_space__rosidl_typesupport_c.so
+[1.944s] -- Set runtime path of "/home/ntu/ros2_ws/install/digital_space/lib/libdigital_space__rosidl_typesupport_c.so" to ""
+[1.944s] -- Up-to-date: /home/ntu/ros2_ws/install/digital_space/include/digital_space
+[1.945s] -- Up-to-date: /home/ntu/ros2_ws/install/digital_space/include/digital_space/msg
+[1.945s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/msg/rosidl_generator_cpp__visibility_control.hpp
+[1.945s] -- Up-to-date: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv
+[1.945s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/querydata.hpp
+[1.945s] -- Up-to-date: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail
+[1.945s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail/querydata__builder.hpp
+[1.945s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail/querydata__struct.hpp
+[1.945s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail/querydata__type_support.hpp
+[1.945s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail/querydata__traits.hpp
+[1.945s] -- Up-to-date: /home/ntu/ros2_ws/install/digital_space/include/digital_space
+[1.945s] -- Up-to-date: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv
+[1.945s] -- Up-to-date: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail
+[1.945s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail/querydata__rosidl_typesupport_introspection_cpp.hpp
+[1.945s] -- Installing: /home/ntu/ros2_ws/install/digital_space/include/digital_space/srv/detail/querydata__type_support.cpp
+[1.945s] -- Installing: /home/ntu/ros2_ws/install/digital_space/lib/libdigital_space__rosidl_typesupport_introspection_cpp.so
+[1.946s] -- Set runtime path of "/home/ntu/ros2_ws/install/digital_space/lib/libdigital_space__rosidl_typesupport_introspection_cpp.so" to ""
+[1.946s] -- Installing: /home/ntu/ros2_ws/install/digital_space/lib/libdigital_space__rosidl_typesupport_cpp.so
+[1.946s] -- Set runtime path of "/home/ntu/ros2_ws/install/digital_space/lib/libdigital_space__rosidl_typesupport_cpp.so" to ""
+[1.946s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/environment/pythonpath.sh
+[1.946s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/environment/pythonpath.dsv
+[1.946s] -- Installing: /home/ntu/ros2_ws/install/digital_space/lib/python3.8/site-packages/digital_space/__init__.py
+[1.962s] Compiling '/home/ntu/ros2_ws/install/digital_space/lib/python3.8/site-packages/digital_space/__init__.py'...
+[1.965s] -- Installing: /home/ntu/ros2_ws/install/digital_space/lib/python3.8/site-packages/digital_space/srv
+[1.965s] -- Installing: /home/ntu/ros2_ws/install/digital_space/lib/python3.8/site-packages/digital_space/srv/_querydata_s.c
+[1.965s] -- Installing: /home/ntu/ros2_ws/install/digital_space/lib/python3.8/site-packages/digital_space/srv/__init__.py
+[1.965s] -- Installing: /home/ntu/ros2_ws/install/digital_space/lib/python3.8/site-packages/digital_space/srv/_querydata.py
+[1.965s] -- Installing: /home/ntu/ros2_ws/install/digital_space/lib/python3.8/site-packages/digital_space/digital_space_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[1.965s] -- Set runtime path of "/home/ntu/ros2_ws/install/digital_space/lib/python3.8/site-packages/digital_space/digital_space_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so" to ""
+[1.965s] -- Installing: /home/ntu/ros2_ws/install/digital_space/lib/python3.8/site-packages/digital_space/digital_space_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[1.966s] -- Set runtime path of "/home/ntu/ros2_ws/install/digital_space/lib/python3.8/site-packages/digital_space/digital_space_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so" to ""
+[1.966s] -- Installing: /home/ntu/ros2_ws/install/digital_space/lib/python3.8/site-packages/digital_space/digital_space_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[1.966s] -- Set runtime path of "/home/ntu/ros2_ws/install/digital_space/lib/python3.8/site-packages/digital_space/digital_space_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so" to ""
+[1.966s] -- Installing: /home/ntu/ros2_ws/install/digital_space/lib/libdigital_space__python.so
+[1.967s] -- Set runtime path of "/home/ntu/ros2_ws/install/digital_space/lib/libdigital_space__python.so" to ""
+[1.967s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/srv/Querydata.idl
+[1.967s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/srv/Querydata.srv
+[1.967s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/srv/Querydata_Request.msg
+[1.967s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/srv/Querydata_Response.msg
+[1.967s] -- Installing: /home/ntu/ros2_ws/install/digital_space/lib/digital_space/data_collector_node.py
+[1.967s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/ament_index/resource_index/package_run_dependencies/digital_space
+[1.967s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/ament_index/resource_index/parent_prefix_path/digital_space
+[1.967s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/environment/ament_prefix_path.sh
+[1.967s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/environment/ament_prefix_path.dsv
+[1.968s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/environment/path.sh
+[1.968s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/environment/path.dsv
+[1.968s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/local_setup.bash
+[1.968s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/local_setup.sh
+[1.968s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/local_setup.zsh
+[1.968s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/local_setup.dsv
+[1.968s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/package.dsv
+[1.968s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/ament_index/resource_index/packages/digital_space
+[1.968s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/digital_space__rosidl_generator_cExport.cmake
+[1.968s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/digital_space__rosidl_generator_cExport-noconfig.cmake
+[1.968s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/digital_space__rosidl_typesupport_introspection_cExport.cmake
+[1.969s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/digital_space__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.969s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/digital_space__rosidl_typesupport_cExport.cmake
+[1.969s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/digital_space__rosidl_typesupport_cExport-noconfig.cmake
+[1.969s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/digital_space__rosidl_generator_cppExport.cmake
+[1.969s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/digital_space__rosidl_typesupport_introspection_cppExport.cmake
+[1.969s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/digital_space__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.969s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/digital_space__rosidl_typesupport_cppExport.cmake
+[1.969s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/digital_space__rosidl_typesupport_cppExport-noconfig.cmake
+[1.969s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/rosidl_cmake-extras.cmake
+[1.970s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.970s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/ament_cmake_export_libraries-extras.cmake
+[1.970s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/ament_cmake_export_targets-extras.cmake
+[1.970s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.970s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.970s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.970s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/digital_spaceConfig.cmake
+[1.970s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/cmake/digital_spaceConfig-version.cmake
+[1.970s] -- Installing: /home/ntu/ros2_ws/install/digital_space/share/digital_space/package.xml
+[1.973s] Invoked command in '/home/ntu/ros2_ws/build/digital_space' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/ntu/ros2_ws/build/digital_space

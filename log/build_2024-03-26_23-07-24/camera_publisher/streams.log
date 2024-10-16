@@ -1,0 +1,37 @@
+[0.710s] Invoking command in '/home/ntu/ros2_ws/src/camera_publisher': PYTHONPATH=/home/ntu/ros2_ws/build/camera_publisher/prefix_override:/home/ntu/ros2_ws/install/camera_publisher/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/camera_publisher build --build-base /home/ntu/ros2_ws/build/camera_publisher/build install --record /home/ntu/ros2_ws/build/camera_publisher/install.log --install-scripts $base/lib/camera_publisher --single-version-externally-managed install_data
+[0.903s] running egg_info
+[0.903s] creating ../../build/camera_publisher/camera_publisher.egg-info
+[0.904s] writing ../../build/camera_publisher/camera_publisher.egg-info/PKG-INFO
+[0.904s] writing dependency_links to ../../build/camera_publisher/camera_publisher.egg-info/dependency_links.txt
+[0.904s] writing entry points to ../../build/camera_publisher/camera_publisher.egg-info/entry_points.txt
+[0.904s] writing requirements to ../../build/camera_publisher/camera_publisher.egg-info/requires.txt
+[0.904s] writing top-level names to ../../build/camera_publisher/camera_publisher.egg-info/top_level.txt
+[0.905s] writing manifest file '../../build/camera_publisher/camera_publisher.egg-info/SOURCES.txt'
+[0.937s] reading manifest file '../../build/camera_publisher/camera_publisher.egg-info/SOURCES.txt'
+[0.938s] writing manifest file '../../build/camera_publisher/camera_publisher.egg-info/SOURCES.txt'
+[0.938s] running build
+[0.938s] running build_py
+[0.938s] creating /home/ntu/ros2_ws/build/camera_publisher/build
+[0.938s] creating /home/ntu/ros2_ws/build/camera_publisher/build/lib
+[0.938s] creating /home/ntu/ros2_ws/build/camera_publisher/build/lib/camera_publisher
+[0.938s] copying camera_publisher/camera_publisher_node.py -> /home/ntu/ros2_ws/build/camera_publisher/build/lib/camera_publisher
+[0.938s] copying camera_publisher/__init__.py -> /home/ntu/ros2_ws/build/camera_publisher/build/lib/camera_publisher
+[0.938s] running install
+[0.939s] running install_lib
+[0.940s] creating /home/ntu/ros2_ws/install/camera_publisher/lib/python3.8/site-packages/camera_publisher
+[0.940s] copying /home/ntu/ros2_ws/build/camera_publisher/build/lib/camera_publisher/camera_publisher_node.py -> /home/ntu/ros2_ws/install/camera_publisher/lib/python3.8/site-packages/camera_publisher
+[0.940s] copying /home/ntu/ros2_ws/build/camera_publisher/build/lib/camera_publisher/__init__.py -> /home/ntu/ros2_ws/install/camera_publisher/lib/python3.8/site-packages/camera_publisher
+[0.940s] byte-compiling /home/ntu/ros2_ws/install/camera_publisher/lib/python3.8/site-packages/camera_publisher/camera_publisher_node.py to camera_publisher_node.cpython-38.pyc
+[0.942s] byte-compiling /home/ntu/ros2_ws/install/camera_publisher/lib/python3.8/site-packages/camera_publisher/__init__.py to __init__.cpython-38.pyc
+[0.942s] running install_data
+[0.942s] creating /home/ntu/ros2_ws/install/camera_publisher/share/ament_index
+[0.942s] creating /home/ntu/ros2_ws/install/camera_publisher/share/ament_index/resource_index
+[0.942s] creating /home/ntu/ros2_ws/install/camera_publisher/share/ament_index/resource_index/packages
+[0.942s] copying resource/camera_publisher -> /home/ntu/ros2_ws/install/camera_publisher/share/ament_index/resource_index/packages
+[0.942s] copying package.xml -> /home/ntu/ros2_ws/install/camera_publisher/share/camera_publisher
+[0.942s] running install_egg_info
+[0.944s] Copying ../../build/camera_publisher/camera_publisher.egg-info to /home/ntu/ros2_ws/install/camera_publisher/lib/python3.8/site-packages/camera_publisher-0.0.0-py3.8.egg-info
+[0.944s] running install_scripts
+[0.957s] Installing camera_publisher script to /home/ntu/ros2_ws/install/camera_publisher/lib/camera_publisher
+[0.957s] writing list of installed files to '/home/ntu/ros2_ws/build/camera_publisher/install.log'
+[0.971s] Invoked command in '/home/ntu/ros2_ws/src/camera_publisher' returned '0': PYTHONPATH=/home/ntu/ros2_ws/build/camera_publisher/prefix_override:/home/ntu/ros2_ws/install/camera_publisher/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/camera_publisher build --build-base /home/ntu/ros2_ws/build/camera_publisher/build install --record /home/ntu/ros2_ws/build/camera_publisher/install.log --install-scripts $base/lib/camera_publisher --single-version-externally-managed install_data

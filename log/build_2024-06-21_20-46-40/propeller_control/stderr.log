@@ -1,0 +1,9 @@
+CMake Error at /opt/ros/foxy/share/ament_cmake_python/cmake/ament_python_install_package.cmake:46 (message):
+  ament_python_install_package() the Python package folder
+  '/home/ntu/ros2_ws/src/propeller_control/propeller_control' doesn't contain
+  an '__init__.py' file
+Call Stack (most recent call first):
+  /opt/ros/foxy/share/ament_cmake_python/cmake/ament_python_install_package.cmake:28 (_ament_cmake_python_install_package)
+  CMakeLists.txt:11 (ament_python_install_package)
+
+

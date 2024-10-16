@@ -1,0 +1,37 @@
+[0.421s] Invoking command in '/home/ntu/ros2_ws/build/propeller_control': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/ntu/ros2_ws/src/propeller_control -DCMAKE_INSTALL_PREFIX=/home/ntu/ros2_ws/install/propeller_control
+[0.473s] -- The C compiler identification is GNU 9.4.0
+[0.542s] -- The CXX compiler identification is GNU 9.4.0
+[0.548s] -- Check for working C compiler: /usr/bin/cc
+[0.610s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.611s] -- Detecting C compiler ABI info
+[0.661s] -- Detecting C compiler ABI info - done
+[0.673s] -- Detecting C compile features
+[0.673s] -- Detecting C compile features - done
+[0.676s] -- Check for working CXX compiler: /usr/bin/c++
+[0.732s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.733s] -- Detecting CXX compiler ABI info
+[0.810s] -- Detecting CXX compiler ABI info - done
+[0.823s] -- Detecting CXX compile features
+[0.824s] -- Detecting CXX compile features - done
+[0.826s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.854s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.854s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.008s] -- Found rclpy: 1.0.13 (/opt/ros/foxy/share/rclpy/cmake)
+[1.009s] -- Found std_msgs: 2.0.5 (/opt/ros/foxy/share/std_msgs/cmake)
+[1.039s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.047s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.114s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.135s] -- Found FastRTPS: /opt/ros/foxy/include  
+[1.190s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.237s] CMake Error at /opt/ros/foxy/share/ament_cmake_python/cmake/ament_python_install_package.cmake:46 (message):
+[1.237s]   ament_python_install_package() the Python package folder
+[1.237s]   '/home/ntu/ros2_ws/src/propeller_control/propeller_control' doesn't contain
+[1.237s]   an '__init__.py' file
+[1.237s] Call Stack (most recent call first):
+[1.237s]   /opt/ros/foxy/share/ament_cmake_python/cmake/ament_python_install_package.cmake:28 (_ament_cmake_python_install_package)
+[1.237s]   CMakeLists.txt:11 (ament_python_install_package)
+[1.237s] 
+[1.237s] 
+[1.237s] -- Configuring incomplete, errors occurred!
+[1.237s] See also "/home/ntu/ros2_ws/build/propeller_control/CMakeFiles/CMakeOutput.log".
+[1.242s] Invoked command in '/home/ntu/ros2_ws/build/propeller_control' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/ntu/ros2_ws/src/propeller_control -DCMAKE_INSTALL_PREFIX=/home/ntu/ros2_ws/install/propeller_control

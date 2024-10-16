@@ -1,0 +1,22 @@
+[0.365s] Invoking command in '/home/ntu/ros2_ws/build/propeller_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ntu/ros2_ws/install/gps_publisher:/home/ntu/ros2_ws/install/echostick_publisher:/home/ntu/ros2_ws/install/camera_publisher:/opt/ros/foxy /usr/bin/cmake --build /home/ntu/ros2_ws/build/propeller_control -- -j12 -l12
+[0.388s] Invoked command in '/home/ntu/ros2_ws/build/propeller_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ntu/ros2_ws/install/gps_publisher:/home/ntu/ros2_ws/install/echostick_publisher:/home/ntu/ros2_ws/install/camera_publisher:/opt/ros/foxy /usr/bin/cmake --build /home/ntu/ros2_ws/build/propeller_control -- -j12 -l12
+[0.406s] Invoking command in '/home/ntu/ros2_ws/build/propeller_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ntu/ros2_ws/install/gps_publisher:/home/ntu/ros2_ws/install/echostick_publisher:/home/ntu/ros2_ws/install/camera_publisher:/opt/ros/foxy /usr/bin/cmake --install /home/ntu/ros2_ws/build/propeller_control
+[0.415s] -- Install configuration: ""
+[0.415s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/propeller_control/propeller_control.py
+[0.415s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/launch/launch
+[0.415s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/share/ament_index/resource_index/package_run_dependencies/propeller_control
+[0.415s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/share/ament_index/resource_index/parent_prefix_path/propeller_control
+[0.416s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/environment/ament_prefix_path.sh
+[0.416s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/environment/ament_prefix_path.dsv
+[0.416s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/environment/path.sh
+[0.416s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/environment/path.dsv
+[0.416s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/local_setup.bash
+[0.416s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/local_setup.sh
+[0.416s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/local_setup.zsh
+[0.417s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/local_setup.dsv
+[0.417s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/package.dsv
+[0.417s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/share/ament_index/resource_index/packages/propeller_control
+[0.417s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/propeller_controlConfig.cmake
+[0.418s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/propeller_controlConfig-version.cmake
+[0.418s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/package.xml
+[0.418s] Invoked command in '/home/ntu/ros2_ws/build/propeller_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ntu/ros2_ws/install/gps_publisher:/home/ntu/ros2_ws/install/echostick_publisher:/home/ntu/ros2_ws/install/camera_publisher:/opt/ros/foxy /usr/bin/cmake --install /home/ntu/ros2_ws/build/propeller_control

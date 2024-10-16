@@ -1,0 +1,4 @@
+source;share/digital_space/environment/ament_prefix_path.sh
+source;share/digital_space/environment/library_path.sh
+source;share/digital_space/environment/path.sh
+source;share/digital_space/environment/pythonpath.sh

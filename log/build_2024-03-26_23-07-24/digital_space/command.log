@@ -1,0 +1,6 @@
+Invoking command in '/home/ntu/ros2_ws/build/digital_space': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/ntu/ros2_ws/src/digital_space -DCMAKE_INSTALL_PREFIX=/home/ntu/ros2_ws/install/digital_space
+Invoked command in '/home/ntu/ros2_ws/build/digital_space' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/ntu/ros2_ws/src/digital_space -DCMAKE_INSTALL_PREFIX=/home/ntu/ros2_ws/install/digital_space
+Invoking command in '/home/ntu/ros2_ws/build/digital_space': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/ntu/ros2_ws/build/digital_space -- -j12 -l12
+Invoked command in '/home/ntu/ros2_ws/build/digital_space' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/ntu/ros2_ws/build/digital_space -- -j12 -l12
+Invoking command in '/home/ntu/ros2_ws/build/digital_space': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/ntu/ros2_ws/build/digital_space
+Invoked command in '/home/ntu/ros2_ws/build/digital_space' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/ntu/ros2_ws/build/digital_space

@@ -1,0 +1,37 @@
+[0.709s] Invoking command in '/home/ntu/ros2_ws/src/gps_publisher': PYTHONPATH=/home/ntu/ros2_ws/build/gps_publisher/prefix_override:/home/ntu/ros2_ws/install/gps_publisher/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/gps_publisher build --build-base /home/ntu/ros2_ws/build/gps_publisher/build install --record /home/ntu/ros2_ws/build/gps_publisher/install.log --install-scripts $base/lib/gps_publisher --single-version-externally-managed install_data
+[0.818s] running egg_info
+[0.818s] creating ../../build/gps_publisher/gps_publisher.egg-info
+[0.818s] writing ../../build/gps_publisher/gps_publisher.egg-info/PKG-INFO
+[0.819s] writing dependency_links to ../../build/gps_publisher/gps_publisher.egg-info/dependency_links.txt
+[0.819s] writing entry points to ../../build/gps_publisher/gps_publisher.egg-info/entry_points.txt
+[0.819s] writing requirements to ../../build/gps_publisher/gps_publisher.egg-info/requires.txt
+[0.819s] writing top-level names to ../../build/gps_publisher/gps_publisher.egg-info/top_level.txt
+[0.821s] writing manifest file '../../build/gps_publisher/gps_publisher.egg-info/SOURCES.txt'
+[0.842s] reading manifest file '../../build/gps_publisher/gps_publisher.egg-info/SOURCES.txt'
+[0.843s] writing manifest file '../../build/gps_publisher/gps_publisher.egg-info/SOURCES.txt'
+[0.843s] running build
+[0.843s] running build_py
+[0.843s] creating /home/ntu/ros2_ws/build/gps_publisher/build
+[0.843s] creating /home/ntu/ros2_ws/build/gps_publisher/build/lib
+[0.843s] creating /home/ntu/ros2_ws/build/gps_publisher/build/lib/gps_publisher
+[0.844s] copying gps_publisher/gps_publisher_node.py -> /home/ntu/ros2_ws/build/gps_publisher/build/lib/gps_publisher
+[0.844s] copying gps_publisher/__init__.py -> /home/ntu/ros2_ws/build/gps_publisher/build/lib/gps_publisher
+[0.844s] running install
+[0.844s] running install_lib
+[0.844s] creating /home/ntu/ros2_ws/install/gps_publisher/lib/python3.8/site-packages/gps_publisher
+[0.844s] copying /home/ntu/ros2_ws/build/gps_publisher/build/lib/gps_publisher/gps_publisher_node.py -> /home/ntu/ros2_ws/install/gps_publisher/lib/python3.8/site-packages/gps_publisher
+[0.845s] copying /home/ntu/ros2_ws/build/gps_publisher/build/lib/gps_publisher/__init__.py -> /home/ntu/ros2_ws/install/gps_publisher/lib/python3.8/site-packages/gps_publisher
+[0.845s] byte-compiling /home/ntu/ros2_ws/install/gps_publisher/lib/python3.8/site-packages/gps_publisher/gps_publisher_node.py to gps_publisher_node.cpython-38.pyc
+[0.845s] byte-compiling /home/ntu/ros2_ws/install/gps_publisher/lib/python3.8/site-packages/gps_publisher/__init__.py to __init__.cpython-38.pyc
+[0.846s] running install_data
+[0.846s] creating /home/ntu/ros2_ws/install/gps_publisher/share/ament_index
+[0.846s] creating /home/ntu/ros2_ws/install/gps_publisher/share/ament_index/resource_index
+[0.846s] creating /home/ntu/ros2_ws/install/gps_publisher/share/ament_index/resource_index/packages
+[0.846s] copying resource/gps_publisher -> /home/ntu/ros2_ws/install/gps_publisher/share/ament_index/resource_index/packages
+[0.846s] copying package.xml -> /home/ntu/ros2_ws/install/gps_publisher/share/gps_publisher
+[0.846s] running install_egg_info
+[0.847s] Copying ../../build/gps_publisher/gps_publisher.egg-info to /home/ntu/ros2_ws/install/gps_publisher/lib/python3.8/site-packages/gps_publisher-0.0.0-py3.8.egg-info
+[0.847s] running install_scripts
+[0.857s] Installing gps_publisher script to /home/ntu/ros2_ws/install/gps_publisher/lib/gps_publisher
+[0.858s] writing list of installed files to '/home/ntu/ros2_ws/build/gps_publisher/install.log'
+[0.876s] Invoked command in '/home/ntu/ros2_ws/src/gps_publisher' returned '0': PYTHONPATH=/home/ntu/ros2_ws/build/gps_publisher/prefix_override:/home/ntu/ros2_ws/install/gps_publisher/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/gps_publisher build --build-base /home/ntu/ros2_ws/build/gps_publisher/build install --record /home/ntu/ros2_ws/build/gps_publisher/install.log --install-scripts $base/lib/gps_publisher --single-version-externally-managed install_data

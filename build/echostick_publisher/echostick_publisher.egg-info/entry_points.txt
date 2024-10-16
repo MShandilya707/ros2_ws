@@ -1,0 +1,3 @@
+[console_scripts]
+echostick_publisher = echostick_publisher.echostick_publisher_node:main
+

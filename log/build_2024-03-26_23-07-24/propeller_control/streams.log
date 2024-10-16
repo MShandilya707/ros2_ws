@@ -1,0 +1,220 @@
+[0.367s] Invoking command in '/home/ntu/ros2_ws/build/propeller_control': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/ntu/ros2_ws/src/propeller_control -DCMAKE_INSTALL_PREFIX=/home/ntu/ros2_ws/install/propeller_control
+[0.411s] -- The C compiler identification is GNU 9.4.0
+[0.459s] -- The CXX compiler identification is GNU 9.4.0
+[0.464s] -- Check for working C compiler: /usr/bin/cc
+[0.521s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.522s] -- Detecting C compiler ABI info
+[0.571s] -- Detecting C compiler ABI info - done
+[0.582s] -- Detecting C compile features
+[0.582s] -- Detecting C compile features - done
+[0.586s] -- Check for working CXX compiler: /usr/bin/c++
+[0.639s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.640s] -- Detecting CXX compiler ABI info
+[0.706s] -- Detecting CXX compiler ABI info - done
+[0.711s] -- Detecting CXX compile features
+[0.711s] -- Detecting CXX compile features - done
+[0.712s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.727s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.727s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.837s] -- Found rclpy: 1.0.13 (/opt/ros/foxy/share/rclpy/cmake)
+[0.838s] -- Found std_msgs: 2.0.5 (/opt/ros/foxy/share/std_msgs/cmake)
+[0.864s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.869s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.927s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[0.948s] -- Found FastRTPS: /opt/ros/foxy/include  
+[1.010s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.040s] -- Found rosidl_default_generators: 1.0.1 (/opt/ros/foxy/share/rosidl_default_generators/cmake)
+[1.060s] -- Found PythonInterp: /usr/bin/python3 (found version "3.8.10") 
+[1.171s] -- Found ament_cmake_ros: 0.9.2 (/opt/ros/foxy/share/ament_cmake_ros/cmake)
+[1.283s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.317s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.332s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3.5") 
+[1.333s] -- Found python_cmake_module: 0.8.1 (/opt/ros/foxy/share/python_cmake_module/cmake)
+[1.353s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.8.so (found suitable version "3.8.10", minimum required is "3.5") 
+[1.353s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.353s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.8
+[1.353s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+[1.368s] -- Found PythonExtra: .so  
+[1.407s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.414s] -- Configuring done
+[1.437s] -- Generating done
+[1.438s] -- Build files have been written to: /home/ntu/ros2_ws/build/propeller_control
+[1.444s] Invoked command in '/home/ntu/ros2_ws/build/propeller_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/ntu/ros2_ws/src/propeller_control -DCMAKE_INSTALL_PREFIX=/home/ntu/ros2_ws/install/propeller_control
+[1.447s] Invoking command in '/home/ntu/ros2_ws/build/propeller_control': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/ntu/ros2_ws/build/propeller_control -- -j12 -l12
+[1.472s] [35m[1mScanning dependencies of target propeller_control__cpp[0m
+[1.472s] [  3%] [34m[1mGenerating C code for ROS interfaces[0m
+[1.479s] [  6%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[1.617s] [35m[1mScanning dependencies of target propeller_control__rosidl_generator_c[0m
+[1.624s] [  6%] Built target propeller_control__cpp
+[1.633s] [  9%] [32mBuilding C object CMakeFiles/propeller_control__rosidl_generator_c.dir/rosidl_generator_c/propeller_control/msg/detail/propeller_status__functions.c.o[0m
+[1.634s] [ 16%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[1.634s] [ 19%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[1.634s] [ 16%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[1.687s] [ 22%] [32m[1mLinking C shared library libpropeller_control__rosidl_generator_c.so[0m
+[1.726s] [ 22%] Built target propeller_control__rosidl_generator_c
+[1.736s] [ 29%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[1.737s] [ 29%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[1.780s] [35m[1mScanning dependencies of target propeller_control__rosidl_typesupport_cpp[0m
+[1.795s] [ 32%] [32mBuilding CXX object CMakeFiles/propeller_control__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/propeller_control/msg/propeller_status__type_support.cpp.o[0m
+[1.868s] [35m[1mScanning dependencies of target propeller_control__rosidl_typesupport_introspection_cpp[0m
+[1.878s] [35m[1mScanning dependencies of target propeller_control__rosidl_typesupport_fastrtps_cpp[0m
+[1.882s] [ 35%] [32mBuilding CXX object CMakeFiles/propeller_control__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/propeller_control/msg/detail/propeller_status__type_support.cpp.o[0m
+[1.893s] [ 38%] [32mBuilding CXX object CMakeFiles/propeller_control__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/propeller_control/msg/detail/dds_fastrtps/propeller_status__type_support.cpp.o[0m
+[1.933s] [35m[1mScanning dependencies of target propeller_control__rosidl_typesupport_introspection_c[0m
+[1.947s] [ 41%] [32mBuilding C object CMakeFiles/propeller_control__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/propeller_control/msg/detail/propeller_status__type_support.c.o[0m
+[1.965s] [35m[1mScanning dependencies of target propeller_control__rosidl_typesupport_c[0m
+[1.979s] [ 45%] [32mBuilding CXX object CMakeFiles/propeller_control__rosidl_typesupport_c.dir/rosidl_typesupport_c/propeller_control/msg/propeller_status__type_support.cpp.o[0m
+[1.984s] [ 48%] [32m[1mLinking C shared library libpropeller_control__rosidl_typesupport_introspection_c.so[0m
+[2.011s] [ 51%] [32m[1mLinking CXX shared library libpropeller_control__rosidl_typesupport_c.so[0m
+[2.018s] [ 51%] Built target propeller_control__rosidl_typesupport_introspection_c
+[2.052s] [ 51%] Built target propeller_control__rosidl_typesupport_c
+[2.139s] [ 54%] [32m[1mLinking CXX shared library libpropeller_control__rosidl_typesupport_cpp.so[0m
+[2.185s] [ 54%] Built target propeller_control__rosidl_typesupport_cpp
+[2.222s] [ 58%] [32m[1mLinking CXX shared library libpropeller_control__rosidl_typesupport_introspection_cpp.so[0m
+[2.259s] [ 58%] Built target propeller_control__rosidl_typesupport_introspection_cpp
+[2.326s] [ 61%] [32m[1mLinking CXX shared library libpropeller_control__rosidl_typesupport_fastrtps_cpp.so[0m
+[2.379s] [ 61%] Built target propeller_control__rosidl_typesupport_fastrtps_cpp
+[2.386s] [ 64%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[2.505s] [35m[1mScanning dependencies of target propeller_control__rosidl_typesupport_fastrtps_c[0m
+[2.516s] [ 67%] [32mBuilding CXX object CMakeFiles/propeller_control__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/propeller_control/msg/detail/propeller_status__type_support_c.cpp.o[0m
+[2.703s] [ 70%] [32m[1mLinking CXX shared library libpropeller_control__rosidl_typesupport_fastrtps_c.so[0m
+[2.755s] [ 70%] Built target propeller_control__rosidl_typesupport_fastrtps_c
+[2.761s] [35m[1mScanning dependencies of target propeller_control[0m
+[2.768s] [ 70%] Built target propeller_control
+[2.774s] [35m[1mScanning dependencies of target propeller_control__py[0m
+[2.780s] [ 74%] [34m[1mGenerating Python code for ROS interfaces[0m
+[3.041s] [ 74%] Built target propeller_control__py
+[3.047s] [35m[1mScanning dependencies of target propeller_control__python[0m
+[3.076s] [ 77%] [32mBuilding C object CMakeFiles/propeller_control__python.dir/rosidl_generator_py/propeller_control/msg/_propeller_status_s.c.o[0m
+[3.168s] [ 80%] [32m[1mLinking C shared library rosidl_generator_py/propeller_control/libpropeller_control__python.so[0m
+[3.194s] [ 80%] Built target propeller_control__python
+[3.201s] [35m[1mScanning dependencies of target propeller_control__rosidl_typesupport_introspection_c__pyext[0m
+[3.204s] [35m[1mScanning dependencies of target propeller_control__rosidl_typesupport_c__pyext[0m
+[3.204s] [35m[1mScanning dependencies of target propeller_control__rosidl_typesupport_fastrtps_c__pyext[0m
+[3.214s] [ 83%] [32mBuilding C object CMakeFiles/propeller_control__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/propeller_control/_propeller_control_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[3.218s] [ 87%] [32mBuilding C object CMakeFiles/propeller_control__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/propeller_control/_propeller_control_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[3.218s] [ 90%] [32mBuilding C object CMakeFiles/propeller_control__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/propeller_control/_propeller_control_s.ep.rosidl_typesupport_c.c.o[0m
+[3.265s] [ 93%] [32m[1mLinking CXX shared library rosidl_generator_py/propeller_control/propeller_control_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so[0m
+[3.286s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/propeller_control/propeller_control_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so[0m
+[3.291s] [100%] [32m[1mLinking C shared library rosidl_generator_py/propeller_control/propeller_control_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so[0m
+[3.309s] [100%] Built target propeller_control__rosidl_typesupport_fastrtps_c__pyext
+[3.315s] [100%] Built target propeller_control__rosidl_typesupport_introspection_c__pyext
+[3.318s] [100%] Built target propeller_control__rosidl_typesupport_c__pyext
+[3.326s] Invoked command in '/home/ntu/ros2_ws/build/propeller_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/ntu/ros2_ws/build/propeller_control -- -j12 -l12
+[3.371s] Invoking command in '/home/ntu/ros2_ws/build/propeller_control': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/ntu/ros2_ws/build/propeller_control
+[3.379s] -- Install configuration: ""
+[3.379s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/ament_index/resource_index/rosidl_interfaces/propeller_control
+[3.379s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control
+[3.380s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg
+[3.380s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/rosidl_generator_c__visibility_control.h
+[3.380s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail
+[3.380s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail/propeller_status__type_support.h
+[3.380s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail/propeller_status__functions.c
+[3.380s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail/propeller_status__struct.h
+[3.380s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail/propeller_status__functions.h
+[3.380s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/propeller_status.h
+[3.380s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/environment/library_path.sh
+[3.380s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/environment/library_path.dsv
+[3.380s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/libpropeller_control__rosidl_generator_c.so
+[3.380s] -- Set runtime path of "/home/ntu/ros2_ws/install/propeller_control/lib/libpropeller_control__rosidl_generator_c.so" to ""
+[3.381s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control
+[3.381s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg
+[3.381s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail
+[3.381s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail/propeller_status__rosidl_typesupport_fastrtps_c.h
+[3.381s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[3.381s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/libpropeller_control__rosidl_typesupport_fastrtps_c.so
+[3.381s] -- Set runtime path of "/home/ntu/ros2_ws/install/propeller_control/lib/libpropeller_control__rosidl_typesupport_fastrtps_c.so" to ""
+[3.381s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control
+[3.381s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg
+[3.381s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[3.381s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail
+[3.382s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail/dds_fastrtps
+[3.382s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail/propeller_status__rosidl_typesupport_fastrtps_cpp.hpp
+[3.382s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/libpropeller_control__rosidl_typesupport_fastrtps_cpp.so
+[3.382s] -- Set runtime path of "/home/ntu/ros2_ws/install/propeller_control/lib/libpropeller_control__rosidl_typesupport_fastrtps_cpp.so" to ""
+[3.382s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control
+[3.382s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg
+[3.382s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[3.382s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail
+[3.382s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail/propeller_status__type_support.c
+[3.382s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail/propeller_status__rosidl_typesupport_introspection_c.h
+[3.382s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/libpropeller_control__rosidl_typesupport_introspection_c.so
+[3.382s] -- Set runtime path of "/home/ntu/ros2_ws/install/propeller_control/lib/libpropeller_control__rosidl_typesupport_introspection_c.so" to ""
+[3.383s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/libpropeller_control__rosidl_typesupport_c.so
+[3.383s] -- Set runtime path of "/home/ntu/ros2_ws/install/propeller_control/lib/libpropeller_control__rosidl_typesupport_c.so" to ""
+[3.383s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control
+[3.383s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg
+[3.383s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/rosidl_generator_cpp__visibility_control.hpp
+[3.383s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail
+[3.383s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail/propeller_status__builder.hpp
+[3.383s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail/propeller_status__type_support.hpp
+[3.383s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail/propeller_status__traits.hpp
+[3.383s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail/propeller_status__struct.hpp
+[3.384s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/propeller_status.hpp
+[3.384s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control
+[3.384s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg
+[3.384s] -- Up-to-date: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail
+[3.384s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail/propeller_status__rosidl_typesupport_introspection_cpp.hpp
+[3.384s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/include/propeller_control/msg/detail/propeller_status__type_support.cpp
+[3.384s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/libpropeller_control__rosidl_typesupport_introspection_cpp.so
+[3.384s] -- Set runtime path of "/home/ntu/ros2_ws/install/propeller_control/lib/libpropeller_control__rosidl_typesupport_introspection_cpp.so" to ""
+[3.384s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/libpropeller_control__rosidl_typesupport_cpp.so
+[3.384s] -- Set runtime path of "/home/ntu/ros2_ws/install/propeller_control/lib/libpropeller_control__rosidl_typesupport_cpp.so" to ""
+[3.384s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/environment/pythonpath.sh
+[3.385s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/environment/pythonpath.dsv
+[3.385s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/python3.8/site-packages/propeller_control/__init__.py
+[3.415s] Compiling '/home/ntu/ros2_ws/install/propeller_control/lib/python3.8/site-packages/propeller_control/__init__.py'...
+[3.419s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/python3.8/site-packages/propeller_control/msg
+[3.419s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/python3.8/site-packages/propeller_control/msg/_propeller_status_s.c
+[3.419s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/python3.8/site-packages/propeller_control/msg/_propeller_status.py
+[3.419s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/python3.8/site-packages/propeller_control/msg/__init__.py
+[3.419s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/python3.8/site-packages/propeller_control/propeller_control_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[3.420s] -- Set runtime path of "/home/ntu/ros2_ws/install/propeller_control/lib/python3.8/site-packages/propeller_control/propeller_control_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so" to ""
+[3.420s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/python3.8/site-packages/propeller_control/propeller_control_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[3.420s] -- Set runtime path of "/home/ntu/ros2_ws/install/propeller_control/lib/python3.8/site-packages/propeller_control/propeller_control_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so" to ""
+[3.420s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/python3.8/site-packages/propeller_control/propeller_control_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[3.421s] -- Set runtime path of "/home/ntu/ros2_ws/install/propeller_control/lib/python3.8/site-packages/propeller_control/propeller_control_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so" to ""
+[3.421s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/libpropeller_control__python.so
+[3.421s] -- Set runtime path of "/home/ntu/ros2_ws/install/propeller_control/lib/libpropeller_control__python.so" to ""
+[3.421s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/msg/PropellerStatus.idl
+[3.421s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/msg/PropellerStatus.msg
+[3.421s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/propeller_control/propeller_1.py
+[3.421s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/propeller_control/propeller_2.py
+[3.422s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/propeller_control/propeller_3.py
+[3.422s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/lib/propeller_control/propeller_4.py
+[3.422s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control//launch
+[3.422s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control//launch/propeller_launch.py
+[3.422s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/ament_index/resource_index/package_run_dependencies/propeller_control
+[3.422s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/ament_index/resource_index/parent_prefix_path/propeller_control
+[3.422s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/environment/ament_prefix_path.sh
+[3.422s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/environment/ament_prefix_path.dsv
+[3.422s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/environment/path.sh
+[3.422s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/environment/path.dsv
+[3.422s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/local_setup.bash
+[3.422s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/local_setup.sh
+[3.422s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/local_setup.zsh
+[3.423s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/local_setup.dsv
+[3.423s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/package.dsv
+[3.423s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/ament_index/resource_index/packages/propeller_control
+[3.423s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/propeller_control__rosidl_generator_cExport.cmake
+[3.423s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/propeller_control__rosidl_generator_cExport-noconfig.cmake
+[3.423s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/propeller_control__rosidl_typesupport_introspection_cExport.cmake
+[3.423s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/propeller_control__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[3.424s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/propeller_control__rosidl_typesupport_cExport.cmake
+[3.424s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/propeller_control__rosidl_typesupport_cExport-noconfig.cmake
+[3.424s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/propeller_control__rosidl_generator_cppExport.cmake
+[3.424s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/propeller_control__rosidl_typesupport_introspection_cppExport.cmake
+[3.424s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/propeller_control__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[3.424s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/propeller_control__rosidl_typesupport_cppExport.cmake
+[3.424s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/propeller_control__rosidl_typesupport_cppExport-noconfig.cmake
+[3.424s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/rosidl_cmake-extras.cmake
+[3.424s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.425s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/ament_cmake_export_libraries-extras.cmake
+[3.425s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/ament_cmake_export_targets-extras.cmake
+[3.425s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/ament_cmake_export_include_directories-extras.cmake
+[3.425s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[3.425s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[3.425s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/propeller_controlConfig.cmake
+[3.425s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/cmake/propeller_controlConfig-version.cmake
+[3.425s] -- Installing: /home/ntu/ros2_ws/install/propeller_control/share/propeller_control/package.xml
+[3.428s] Invoked command in '/home/ntu/ros2_ws/build/propeller_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/ntu/ros2_ws/build/propeller_control

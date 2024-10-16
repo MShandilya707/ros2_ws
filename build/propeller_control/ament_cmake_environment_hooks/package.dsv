@@ -1,0 +1,4 @@
+source;share/propeller_control/local_setup.bash
+source;share/propeller_control/local_setup.dsv
+source;share/propeller_control/local_setup.sh
+source;share/propeller_control/local_setup.zsh

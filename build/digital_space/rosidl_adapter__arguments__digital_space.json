@@ -1,0 +1,6 @@
+{
+  "package_name": "digital_space",
+  "non_idl_tuples": [
+    "/home/ntu/ros2_ws/src/digital_space:srv/Querydata.srv"
+  ]
+}

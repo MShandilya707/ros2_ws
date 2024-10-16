@@ -1,0 +1,8 @@
+source;share/propeller_control/hook/cmake_prefix_path.ps1
+source;share/propeller_control/hook/cmake_prefix_path.dsv
+source;share/propeller_control/hook/cmake_prefix_path.sh
+source;share/propeller_control/local_setup.bash
+source;share/propeller_control/local_setup.dsv
+source;share/propeller_control/local_setup.ps1
+source;share/propeller_control/local_setup.sh
+source;share/propeller_control/local_setup.zsh

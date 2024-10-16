@@ -1,0 +1,22 @@
+[0.371s] Invoking command in '/home/ntu/ros2_ws/build/propeller_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ntu/ros2_ws/install/gps_publisher:/home/ntu/ros2_ws/install/echostick_publisher:/home/ntu/ros2_ws/install/camera_publisher:/opt/ros/foxy /usr/bin/cmake --build /home/ntu/ros2_ws/build/propeller_control -- -j12 -l12
+[0.388s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.411s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.411s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.574s] -- Found rclpy: 1.0.13 (/opt/ros/foxy/share/rclpy/cmake)
+[0.574s] -- Found std_msgs: 2.0.5 (/opt/ros/foxy/share/std_msgs/cmake)
+[0.602s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.606s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.743s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.799s] CMake Error at /opt/ros/foxy/share/ament_cmake_python/cmake/ament_python_install_package.cmake:46 (message):
+[0.799s]   ament_python_install_package() the Python package folder
+[0.799s]   '/home/ntu/ros2_ws/src/propeller_control/propeller_control' doesn't contain
+[0.799s]   an '__init__.py' file
+[0.799s] Call Stack (most recent call first):
+[0.799s]   /opt/ros/foxy/share/ament_cmake_python/cmake/ament_python_install_package.cmake:28 (_ament_cmake_python_install_package)
+[0.799s]   CMakeLists.txt:11 (ament_python_install_package)
+[0.799s] 
+[0.799s] 
+[0.800s] -- Configuring incomplete, errors occurred!
+[0.800s] See also "/home/ntu/ros2_ws/build/propeller_control/CMakeFiles/CMakeOutput.log".
+[0.805s] make: *** [Makefile:748：cmake_check_build_system] 错误 1
+[0.806s] Invoked command in '/home/ntu/ros2_ws/build/propeller_control' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ntu/ros2_ws/install/gps_publisher:/home/ntu/ros2_ws/install/echostick_publisher:/home/ntu/ros2_ws/install/camera_publisher:/opt/ros/foxy /usr/bin/cmake --build /home/ntu/ros2_ws/build/propeller_control -- -j12 -l12

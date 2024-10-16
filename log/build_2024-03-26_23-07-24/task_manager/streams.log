@@ -1,0 +1,263 @@
+[0.007s] Invoking command in '/home/ntu/ros2_ws/build/task_manager': AMENT_PREFIX_PATH=/home/ntu/ros2_ws/install/digital_space:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ntu/ros2_ws/install/digital_space:/opt/ros/foxy LD_LIBRARY_PATH=/home/ntu/ros2_ws/install/digital_space/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ntu/ros2_ws/install/digital_space/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/ntu/ros2_ws/src/task_manager -DCMAKE_INSTALL_PREFIX=/home/ntu/ros2_ws/install/task_manager
+[0.038s] -- The C compiler identification is GNU 9.4.0
+[0.069s] -- The CXX compiler identification is GNU 9.4.0
+[0.071s] -- Check for working C compiler: /usr/bin/cc
+[0.110s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.111s] -- Detecting C compiler ABI info
+[0.152s] -- Detecting C compiler ABI info - done
+[0.160s] -- Detecting C compile features
+[0.160s] -- Detecting C compile features - done
+[0.162s] -- Check for working CXX compiler: /usr/bin/c++
+[0.215s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.215s] -- Detecting CXX compiler ABI info
+[0.265s] -- Detecting CXX compiler ABI info - done
+[0.276s] -- Detecting CXX compile features
+[0.276s] -- Detecting CXX compile features - done
+[0.278s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.293s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.294s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.390s] -- Found rclpy: 1.0.13 (/opt/ros/foxy/share/rclpy/cmake)
+[0.391s] -- Found std_msgs: 2.0.5 (/opt/ros/foxy/share/std_msgs/cmake)
+[0.406s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.408s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.450s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[0.467s] -- Found FastRTPS: /opt/ros/foxy/include  
+[0.511s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.538s] -- Found rosidl_default_generators: 1.0.1 (/opt/ros/foxy/share/rosidl_default_generators/cmake)
+[0.558s] -- Found PythonInterp: /usr/bin/python3 (found version "3.8.10") 
+[0.655s] -- Found ament_cmake_ros: 0.9.2 (/opt/ros/foxy/share/ament_cmake_ros/cmake)
+[0.748s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.781s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.795s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3.5") 
+[0.796s] -- Found python_cmake_module: 0.8.1 (/opt/ros/foxy/share/python_cmake_module/cmake)
+[0.810s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.8.so (found suitable version "3.8.10", minimum required is "3.5") 
+[0.810s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.810s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.8
+[0.810s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+[0.821s] -- Found PythonExtra: .so  
+[0.852s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.857s] -- Configuring done
+[0.879s] -- Generating done
+[0.880s] -- Build files have been written to: /home/ntu/ros2_ws/build/task_manager
+[0.886s] Invoked command in '/home/ntu/ros2_ws/build/task_manager' returned '0': AMENT_PREFIX_PATH=/home/ntu/ros2_ws/install/digital_space:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ntu/ros2_ws/install/digital_space:/opt/ros/foxy LD_LIBRARY_PATH=/home/ntu/ros2_ws/install/digital_space/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ntu/ros2_ws/install/digital_space/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/ntu/ros2_ws/src/task_manager -DCMAKE_INSTALL_PREFIX=/home/ntu/ros2_ws/install/task_manager
+[0.888s] Invoking command in '/home/ntu/ros2_ws/build/task_manager': AMENT_PREFIX_PATH=/home/ntu/ros2_ws/install/digital_space:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ntu/ros2_ws/install/digital_space:/opt/ros/foxy LD_LIBRARY_PATH=/home/ntu/ros2_ws/install/digital_space/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ntu/ros2_ws/install/digital_space/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ntu/ros2_ws/build/task_manager -- -j12 -l12
+[0.910s] [35m[1mScanning dependencies of target task_manager__cpp[0m
+[0.910s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[0.916s] [  5%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[1.082s] [  5%] Built target task_manager__cpp
+[1.089s] [  7%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[1.091s] [ 10%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[1.091s] [ 12%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[1.093s] [35m[1mScanning dependencies of target task_manager__rosidl_generator_c[0m
+[1.104s] [ 17%] [32mBuilding C object CMakeFiles/task_manager__rosidl_generator_c.dir/rosidl_generator_c/task_manager/srv/detail/querydata__functions.c.o[0m
+[1.104s] [ 17%] [32mBuilding C object CMakeFiles/task_manager__rosidl_generator_c.dir/rosidl_generator_c/task_manager/msg/detail/propeller_status__functions.c.o[0m
+[1.160s] [ 20%] [32m[1mLinking C shared library libtask_manager__rosidl_generator_c.so[0m
+[1.195s] [ 20%] Built target task_manager__rosidl_generator_c
+[1.205s] [ 25%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[1.206s] [ 25%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[1.237s] [35m[1mScanning dependencies of target task_manager__rosidl_typesupport_cpp[0m
+[1.246s] [35m[1mScanning dependencies of target task_manager__rosidl_typesupport_introspection_cpp[0m
+[1.250s] [ 28%] [32mBuilding CXX object CMakeFiles/task_manager__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/task_manager/msg/propeller_status__type_support.cpp.o[0m
+[1.251s] [ 30%] [32mBuilding CXX object CMakeFiles/task_manager__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/task_manager/srv/querydata__type_support.cpp.o[0m
+[1.260s] [ 35%] [32mBuilding CXX object CMakeFiles/task_manager__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/task_manager/srv/detail/querydata__type_support.cpp.o[0m
+[1.260s] [ 35%] [32mBuilding CXX object CMakeFiles/task_manager__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/task_manager/msg/detail/propeller_status__type_support.cpp.o[0m
+[1.327s] [35m[1mScanning dependencies of target task_manager__rosidl_typesupport_fastrtps_cpp[0m
+[1.347s] [ 38%] [32mBuilding CXX object CMakeFiles/task_manager__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/task_manager/srv/detail/dds_fastrtps/querydata__type_support.cpp.o[0m
+[1.347s] [ 41%] [32mBuilding CXX object CMakeFiles/task_manager__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/task_manager/msg/detail/dds_fastrtps/propeller_status__type_support.cpp.o[0m
+[1.379s] [35m[1mScanning dependencies of target task_manager__rosidl_typesupport_c[0m
+[1.393s] [ 43%] [32mBuilding CXX object CMakeFiles/task_manager__rosidl_typesupport_c.dir/rosidl_typesupport_c/task_manager/srv/querydata__type_support.cpp.o[0m
+[1.397s] [ 46%] [32mBuilding CXX object CMakeFiles/task_manager__rosidl_typesupport_c.dir/rosidl_typesupport_c/task_manager/msg/propeller_status__type_support.cpp.o[0m
+[1.435s] [ 48%] [32m[1mLinking CXX shared library libtask_manager__rosidl_typesupport_c.so[0m
+[1.479s] [ 48%] Built target task_manager__rosidl_typesupport_c
+[1.494s] [35m[1mScanning dependencies of target task_manager__rosidl_typesupport_introspection_c[0m
+[1.507s] [ 51%] [32mBuilding C object CMakeFiles/task_manager__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/task_manager/msg/detail/propeller_status__type_support.c.o[0m
+[1.507s] [ 53%] [32mBuilding C object CMakeFiles/task_manager__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/task_manager/srv/detail/querydata__type_support.c.o[0m
+[1.544s] [ 56%] [32m[1mLinking C shared library libtask_manager__rosidl_typesupport_introspection_c.so[0m
+[1.563s] [ 58%] [32m[1mLinking CXX shared library libtask_manager__rosidl_typesupport_cpp.so[0m
+[1.578s] [ 58%] Built target task_manager__rosidl_typesupport_introspection_c
+[1.596s] [ 58%] Built target task_manager__rosidl_typesupport_cpp
+[1.598s] [ 61%] [32m[1mLinking CXX shared library libtask_manager__rosidl_typesupport_introspection_cpp.so[0m
+[1.645s] [ 61%] Built target task_manager__rosidl_typesupport_introspection_cpp
+[1.739s] [ 64%] [32m[1mLinking CXX shared library libtask_manager__rosidl_typesupport_fastrtps_cpp.so[0m
+[1.791s] [ 64%] Built target task_manager__rosidl_typesupport_fastrtps_cpp
+[1.797s] [ 66%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[1.942s] [35m[1mScanning dependencies of target task_manager__rosidl_typesupport_fastrtps_c[0m
+[1.952s] [ 69%] [32mBuilding CXX object CMakeFiles/task_manager__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/task_manager/msg/detail/propeller_status__type_support_c.cpp.o[0m
+[1.954s] [ 71%] [32mBuilding CXX object CMakeFiles/task_manager__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/task_manager/srv/detail/querydata__type_support_c.cpp.o[0m
+[2.146s] [ 74%] [32m[1mLinking CXX shared library libtask_manager__rosidl_typesupport_fastrtps_c.so[0m
+[2.192s] [ 74%] Built target task_manager__rosidl_typesupport_fastrtps_c
+[2.198s] [35m[1mScanning dependencies of target task_manager[0m
+[2.204s] [ 74%] Built target task_manager
+[2.209s] [35m[1mScanning dependencies of target task_manager__py[0m
+[2.215s] [ 76%] [34m[1mGenerating Python code for ROS interfaces[0m
+[2.499s] [ 76%] Built target task_manager__py
+[2.504s] [35m[1mScanning dependencies of target task_manager__python[0m
+[2.514s] [ 79%] [32mBuilding C object CMakeFiles/task_manager__python.dir/rosidl_generator_py/task_manager/msg/_propeller_status_s.c.o[0m
+[2.516s] [ 82%] [32mBuilding C object CMakeFiles/task_manager__python.dir/rosidl_generator_py/task_manager/srv/_querydata_s.c.o[0m
+[2.567s] [ 84%] [32m[1mLinking C shared library rosidl_generator_py/task_manager/libtask_manager__python.so[0m
+[2.590s] [ 84%] Built target task_manager__python
+[2.597s] [35m[1mScanning dependencies of target task_manager__rosidl_typesupport_c__pyext[0m
+[2.597s] [35m[1mScanning dependencies of target task_manager__rosidl_typesupport_introspection_c__pyext[0m
+[2.598s] [35m[1mScanning dependencies of target task_manager__rosidl_typesupport_fastrtps_c__pyext[0m
+[2.609s] [ 89%] [32mBuilding C object CMakeFiles/task_manager__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/task_manager/_task_manager_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[2.609s] [ 89%] [32mBuilding C object CMakeFiles/task_manager__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/task_manager/_task_manager_s.ep.rosidl_typesupport_c.c.o[0m
+[2.610s] [ 92%] [32mBuilding C object CMakeFiles/task_manager__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/task_manager/_task_manager_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[2.659s] [ 94%] [32m[1mLinking CXX shared library rosidl_generator_py/task_manager/task_manager_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so[0m
+[2.660s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/task_manager/task_manager_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so[0m
+[2.688s] [ 97%] Built target task_manager__rosidl_typesupport_c__pyext
+[2.690s] [100%] [32m[1mLinking C shared library rosidl_generator_py/task_manager/task_manager_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so[0m
+[2.714s] [100%] Built target task_manager__rosidl_typesupport_introspection_c__pyext
+[2.719s] [100%] Built target task_manager__rosidl_typesupport_fastrtps_c__pyext
+[2.727s] Invoked command in '/home/ntu/ros2_ws/build/task_manager' returned '0': AMENT_PREFIX_PATH=/home/ntu/ros2_ws/install/digital_space:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ntu/ros2_ws/install/digital_space:/opt/ros/foxy LD_LIBRARY_PATH=/home/ntu/ros2_ws/install/digital_space/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ntu/ros2_ws/install/digital_space/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ntu/ros2_ws/build/task_manager -- -j12 -l12
+[2.758s] Invoking command in '/home/ntu/ros2_ws/build/task_manager': AMENT_PREFIX_PATH=/home/ntu/ros2_ws/install/digital_space:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ntu/ros2_ws/install/digital_space:/opt/ros/foxy LD_LIBRARY_PATH=/home/ntu/ros2_ws/install/digital_space/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ntu/ros2_ws/install/digital_space/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ntu/ros2_ws/build/task_manager
+[2.763s] -- Install configuration: ""
+[2.763s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/ament_index/resource_index/rosidl_interfaces/task_manager
+[2.763s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager
+[2.764s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg
+[2.764s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/rosidl_generator_c__visibility_control.h
+[2.764s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail
+[2.764s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__type_support.h
+[2.764s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__functions.c
+[2.764s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__struct.h
+[2.764s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__functions.h
+[2.764s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/propeller_status.h
+[2.764s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv
+[2.764s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/querydata.h
+[2.764s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail
+[2.764s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__struct.h
+[2.764s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__functions.c
+[2.764s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__type_support.h
+[2.764s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__functions.h
+[2.765s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/environment/library_path.sh
+[2.765s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/environment/library_path.dsv
+[2.765s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_generator_c.so
+[2.765s] -- Set runtime path of "/home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_generator_c.so" to ""
+[2.765s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager
+[2.765s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg
+[2.765s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail
+[2.765s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__rosidl_typesupport_fastrtps_c.h
+[2.765s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[2.765s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv
+[2.765s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail
+[2.765s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__rosidl_typesupport_fastrtps_c.h
+[2.765s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_typesupport_fastrtps_c.so
+[2.765s] -- Set runtime path of "/home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_typesupport_fastrtps_c.so" to ""
+[2.766s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager
+[2.766s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg
+[2.766s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[2.766s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail
+[2.766s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/dds_fastrtps
+[2.766s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__rosidl_typesupport_fastrtps_cpp.hpp
+[2.766s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv
+[2.766s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail
+[2.766s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/dds_fastrtps
+[2.766s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__rosidl_typesupport_fastrtps_cpp.hpp
+[2.766s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_typesupport_fastrtps_cpp.so
+[2.766s] -- Set runtime path of "/home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_typesupport_fastrtps_cpp.so" to ""
+[2.766s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager
+[2.766s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg
+[2.766s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[2.766s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail
+[2.767s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__type_support.c
+[2.767s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__rosidl_typesupport_introspection_c.h
+[2.767s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv
+[2.767s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail
+[2.767s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__type_support.c
+[2.767s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__rosidl_typesupport_introspection_c.h
+[2.767s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_typesupport_introspection_c.so
+[2.767s] -- Set runtime path of "/home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_typesupport_introspection_c.so" to ""
+[2.767s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_typesupport_c.so
+[2.767s] -- Set runtime path of "/home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_typesupport_c.so" to ""
+[2.767s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager
+[2.767s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg
+[2.767s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/rosidl_generator_cpp__visibility_control.hpp
+[2.767s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail
+[2.767s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__builder.hpp
+[2.767s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__type_support.hpp
+[2.767s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__traits.hpp
+[2.768s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__struct.hpp
+[2.768s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/propeller_status.hpp
+[2.768s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv
+[2.768s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/querydata.hpp
+[2.768s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail
+[2.768s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__builder.hpp
+[2.768s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__struct.hpp
+[2.768s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__type_support.hpp
+[2.768s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__traits.hpp
+[2.768s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager
+[2.768s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg
+[2.768s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail
+[2.768s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__rosidl_typesupport_introspection_cpp.hpp
+[2.768s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/msg/detail/propeller_status__type_support.cpp
+[2.768s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv
+[2.768s] -- Up-to-date: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail
+[2.769s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__rosidl_typesupport_introspection_cpp.hpp
+[2.769s] -- Installing: /home/ntu/ros2_ws/install/task_manager/include/task_manager/srv/detail/querydata__type_support.cpp
+[2.769s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_typesupport_introspection_cpp.so
+[2.769s] -- Set runtime path of "/home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_typesupport_introspection_cpp.so" to ""
+[2.769s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_typesupport_cpp.so
+[2.769s] -- Set runtime path of "/home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__rosidl_typesupport_cpp.so" to ""
+[2.769s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/environment/pythonpath.sh
+[2.769s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/environment/pythonpath.dsv
+[2.769s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/__init__.py
+[2.783s] Compiling '/home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/__init__.py'...
+[2.786s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/msg
+[2.786s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/msg/_propeller_status_s.c
+[2.786s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/msg/_propeller_status.py
+[2.786s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/msg/__init__.py
+[2.786s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/srv
+[2.786s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/srv/_querydata_s.c
+[2.786s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/srv/__init__.py
+[2.786s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/srv/_querydata.py
+[2.786s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/task_manager_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[2.786s] -- Set runtime path of "/home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/task_manager_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so" to ""
+[2.786s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/task_manager_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[2.786s] -- Set runtime path of "/home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/task_manager_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so" to ""
+[2.787s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/task_manager_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[2.787s] -- Set runtime path of "/home/ntu/ros2_ws/install/task_manager/lib/python3.8/site-packages/task_manager/task_manager_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so" to ""
+[2.787s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__python.so
+[2.787s] -- Set runtime path of "/home/ntu/ros2_ws/install/task_manager/lib/libtask_manager__python.so" to ""
+[2.787s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/msg/PropellerStatus.idl
+[2.787s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/srv/Querydata.idl
+[2.787s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/msg/PropellerStatus.msg
+[2.787s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/srv/Querydata.srv
+[2.787s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/srv/Querydata_Request.msg
+[2.787s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/srv/Querydata_Response.msg
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/lib/task_manager/planning.py
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager//launch
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager//launch/all_node_launch.py
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager//launch/node_before_planning_launch.py
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/ament_index/resource_index/package_run_dependencies/task_manager
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/ament_index/resource_index/parent_prefix_path/task_manager
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/environment/ament_prefix_path.sh
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/environment/ament_prefix_path.dsv
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/environment/path.sh
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/environment/path.dsv
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/local_setup.bash
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/local_setup.sh
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/local_setup.zsh
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/local_setup.dsv
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/package.dsv
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/ament_index/resource_index/packages/task_manager
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_generator_cExport.cmake
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_generator_cExport-noconfig.cmake
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_typesupport_introspection_cExport.cmake
+[2.788s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[2.789s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_typesupport_cExport.cmake
+[2.789s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_typesupport_cExport-noconfig.cmake
+[2.789s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_generator_cppExport.cmake
+[2.789s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_typesupport_introspection_cppExport.cmake
+[2.789s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[2.789s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_typesupport_cppExport.cmake
+[2.789s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_manager__rosidl_typesupport_cppExport-noconfig.cmake
+[2.789s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/rosidl_cmake-extras.cmake
+[2.789s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.789s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/ament_cmake_export_libraries-extras.cmake
+[2.789s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/ament_cmake_export_targets-extras.cmake
+[2.789s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.789s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[2.789s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[2.789s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_managerConfig.cmake
+[2.789s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/cmake/task_managerConfig-version.cmake
+[2.789s] -- Installing: /home/ntu/ros2_ws/install/task_manager/share/task_manager/package.xml
+[2.791s] Invoked command in '/home/ntu/ros2_ws/build/task_manager' returned '0': AMENT_PREFIX_PATH=/home/ntu/ros2_ws/install/digital_space:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ntu/ros2_ws/install/digital_space:/opt/ros/foxy LD_LIBRARY_PATH=/home/ntu/ros2_ws/install/digital_space/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ntu/ros2_ws/install/digital_space/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ntu/ros2_ws/build/task_manager

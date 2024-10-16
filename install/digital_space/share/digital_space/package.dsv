@@ -1,0 +1,14 @@
+source;share/digital_space/hook/cmake_prefix_path.ps1
+source;share/digital_space/hook/cmake_prefix_path.dsv
+source;share/digital_space/hook/cmake_prefix_path.sh
+source;share/digital_space/hook/ld_library_path_lib.ps1
+source;share/digital_space/hook/ld_library_path_lib.dsv
+source;share/digital_space/hook/ld_library_path_lib.sh
+source;share/digital_space/hook/pythonpath.ps1
+source;share/digital_space/hook/pythonpath.dsv
+source;share/digital_space/hook/pythonpath.sh
+source;share/digital_space/local_setup.bash
+source;share/digital_space/local_setup.dsv
+source;share/digital_space/local_setup.ps1
+source;share/digital_space/local_setup.sh
+source;share/digital_space/local_setup.zsh

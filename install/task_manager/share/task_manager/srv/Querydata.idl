@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from task_manager/srv/Querydata.srv
+// generated code does not contain a copyright notice
+
+
+module task_manager {
+  module srv {
+    struct Querydata_Request {
+      uint8 structure_needs_at_least_one_member;
+    };
+    struct Querydata_Response {
+      string latest_data;
+    };
+  };
+};

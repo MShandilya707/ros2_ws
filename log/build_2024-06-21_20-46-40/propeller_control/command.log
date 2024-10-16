@@ -1,0 +1,2 @@
+Invoking command in '/home/ntu/ros2_ws/build/propeller_control': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/ntu/ros2_ws/src/propeller_control -DCMAKE_INSTALL_PREFIX=/home/ntu/ros2_ws/install/propeller_control
+Invoked command in '/home/ntu/ros2_ws/build/propeller_control' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/ntu/ros2_ws/src/propeller_control -DCMAKE_INSTALL_PREFIX=/home/ntu/ros2_ws/install/propeller_control
